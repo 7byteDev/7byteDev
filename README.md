@@ -16,6 +16,7 @@ Building, experimenting, and sharing along the way.
 Senior full-stack developer with **26+ years of professional experience**. I build web applications, enterprise platforms, AI-powered solutions, and streaming infrastructure — from architecture and development to deployment and long-term support.
 
 - **Full-stack & enterprise software:** websites, SaaS platforms, CRM/ERP systems, APIs, and business integrations.
+- **Media & streaming solutions:** Scalable media platforms, content delivery systems, and custom video and audio solutions.
 - **AI & automation:** LLM integrations, chatbots, workflow automation, and custom tools.
 - **Infrastructure & DevOps:** Windows and Linux systems, containers, CI/CD, networking, and server automation.
 
