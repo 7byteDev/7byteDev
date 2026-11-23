@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hi, I'm Özgür — 7byteDev
+# 7Byte — Software, Streaming & AI Engineering
 
-**Curious by nature. Developer by choice.**
+**Engineering digital solutions. Built to last.**
 
-Building, experimenting, and sharing along the way.
+Enterprise software, streaming infrastructure, AI automation, and custom web platforms — designed, built, and supported end to end.
 
 [![Website](https://img.shields.io/badge/7byte.dev-Visit_website-168FFF?style=for-the-badge)](https://7byte.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-7byteDev-181717?style=for-the-badge&logo=github)](https://github.com/7byteDev)
 
 </div>
 
-## What I do
+## What we do
 
-Senior full-stack developer with **26+ years of professional experience**. I build web applications, enterprise platforms, AI-powered solutions, and streaming infrastructure — from architecture and development to deployment and long-term support.
+An engineering company backed by **25+ years of professional experience**. We build web applications, enterprise platforms, AI-powered solutions, and streaming infrastructure — from architecture and development to deployment and long-term support.
 
 - **Full-stack & enterprise software:** websites, SaaS platforms, CRM/ERP systems, APIs, and business integrations.
-- **Media & streaming solutions:** Scalable media platforms, content delivery systems, and custom video and audio solutions.
+- **Media & streaming solutions:** scalable media platforms, content delivery systems, and custom video and audio solutions.
 - **AI & automation:** LLM integrations, chatbots, workflow automation, and custom tools.
 - **Infrastructure & DevOps:** Windows and Linux systems, containers, CI/CD, networking, and server automation.
 
@@ -37,4 +37,4 @@ Senior full-stack developer with **26+ years of professional experience**. I bui
 
 ---
 
-[7byte.dev](https://7byte.dev) · Build something useful. Keep learning.
+[7byte.dev](https://7byte.dev) · Engineering that lasts.
